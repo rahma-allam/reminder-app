@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reminder-app/static/css/main.9e98e732.chunk.css",
+    "main.js": "/reminder-app/static/js/main.26789bdd.chunk.js",
+    "main.js.map": "/reminder-app/static/js/main.26789bdd.chunk.js.map",
+    "runtime-main.js": "/reminder-app/static/js/runtime-main.384c863a.js",
+    "runtime-main.js.map": "/reminder-app/static/js/runtime-main.384c863a.js.map",
+    "static/css/2.bdb6d637.chunk.css": "/reminder-app/static/css/2.bdb6d637.chunk.css",
+    "static/js/2.9b2981cc.chunk.js": "/reminder-app/static/js/2.9b2981cc.chunk.js",
+    "static/js/2.9b2981cc.chunk.js.map": "/reminder-app/static/js/2.9b2981cc.chunk.js.map",
+    "index.html": "/reminder-app/index.html",
+    "static/css/2.bdb6d637.chunk.css.map": "/reminder-app/static/css/2.bdb6d637.chunk.css.map",
+    "static/css/main.9e98e732.chunk.css.map": "/reminder-app/static/css/main.9e98e732.chunk.css.map",
+    "static/js/2.9b2981cc.chunk.js.LICENSE.txt": "/reminder-app/static/js/2.9b2981cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.384c863a.js",
+    "static/css/2.bdb6d637.chunk.css",
+    "static/js/2.9b2981cc.chunk.js",
+    "static/css/main.9e98e732.chunk.css",
+    "static/js/main.26789bdd.chunk.js"
+  ]
+}
